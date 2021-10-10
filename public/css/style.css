@@ -1,0 +1,22 @@
+
+/* style of card */
+.card p{
+    color: brown;
+}
+.card h5{
+color: darkslategray;
+}
+.imageData{
+    width: 100%;
+    height: 200px;
+}
+footer{
+    background-color: #333;
+}
+footer p{
+    text-align: center;
+    color: #fff;
+}
+footer span{
+    color: tomato;
+}
